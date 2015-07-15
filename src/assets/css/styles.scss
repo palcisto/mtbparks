@@ -1,0 +1,57 @@
+@import "base";
+
+.container {
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+
+/*
+ *------------------------------------------------
+ * RESET
+ *------------------------------------------------
+*/
+
+
+
+.park {
+  box-shadow: 0 0 5px rgba(0, 0, 0, .25);
+  margin-bottom: 20px;
+  padding: 15px;
+
+  // .park__name
+  &__name {
+    font-size: (20rem / 16);
+    margin-bottom: 15px;
+    margin-top: 0;
+  }
+
+  // .park__state
+  &__state {
+    font-size: (18rem / 16);
+  }
+
+  // .park__logo
+  &__logo {}
+
+  // .park__message
+  &__message {
+    font-size: (14rem / 16);
+  }
+
+  // .park__description
+  &__description {}
+}
+
+.park-perks {
+  // .park-perks__item
+  &__item {
+    font-size: (14rem / 16);
+  }
+}

@@ -1,0 +1,16 @@
+dev_build/
+prod_build/
+bower_components
+node_modules
+
+coverage/
+test/reports/test-results.xml
+
+*/*.bak
+
+#we use macs
+.DS_Store
+
+# Editor Files
+*.sublime-workspace
+.*.sw?

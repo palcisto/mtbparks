@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Mountain Creek Bike Park",
+    "type": "park",
+    "country": "United States",
+    "state": "New Jersey",
+    "url": "http://mtbparks.com/New-Jersey/243-Mountain-Creek-Bike-Park/View-details.html?item_id=120",
+    "logo": "http://mtbparks.com/components/com_mtree/img/listings/s/114.jpg",
+    "marketing-message": "",
+    "description": "",
+    "perks": [
+      "One FREE lift ticket valid one time during the 2015 season. Savings: $43",
+      "50% OFF regularly priced lift tickets for each additional visit.",
+      "20% OFF bike rentals (weekdays, not including holidays).",
+      "10% OFF private lessons any time."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Highland Mountain Bike Park",
+    "type": "park",
+    "country": "United States",
+    "state": "New Hampshire",
+    "url": "http://mtbparks.com/New-Hampshire/239-Highland-Mountain-Bike-Park/View-details.html?item_id=120",
+    "logo": "http://mtbparks.com/images/2015-Highland/highland-mountain-logo-mtb.jpg",
+    "marketing-message": "BRING A FRIEND, GROW THE SPORT, RIDE FOR FREE!",
+    "description": "This is a special exclusive AND recurring offer for MTBparks Pass members.<br>*Tickets are non-transferable and must be used during the 2015 season<br>Want to get more friends excited about downhill mountain biking so you can ride more? Highland's Find Your Ride package is designed to introduce new riders and first timers to downhill mountain biking. The program is limited to one use per participant each season, and includes an all day lift pass, one Park Ready rental bike, safety equipment and a one-hour Park Ready lesson. This is a great program for friends and family members interested in checking out lift-accessed mountain biking. One day Find Your Ride package: $99, 3-pack Find Your Ride package: $267.",
+    "perks": [
+      "<strong>One FREE lift ticket.</strong>* Savings: $42",
+      "<strong>Three FREE lift tickets.</strong> ** Savings: $126"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Plattekill Bike Park",
+    "type": "park",
+    "country": "United States",
+    "state": "New York",
+    "url": "http://mtbparks.com/New-York/250-Plattekill-Mountain-Bike-Park/View-details.html?item_id=120",
+    "logo": "http://mtbparks.com/images/2015-plattekill/2015-plattekill-BIKE-PARK-LOGO.png",
+    "marketing-message": "",
+    "description": "",
+    "perks": [
+      "One FREE lift ticket valid one time during the 2015 season. Savings: $35"
+    ]
+  }
+]

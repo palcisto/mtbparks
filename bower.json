@@ -1,0 +1,25 @@
+{
+  "name": "MTBparks.com",
+  "version": "0.1.0",
+  "homepage": "",
+  "description": "MTBparks.com store",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.4.1",
+    "angular-cookie": "~4.0.8",
+    "angular-messages": "~1.4.1",
+    "angular-ui-router": "~0.2.15",
+    "angular-ui-utils": "~0.2.3",
+    "underscore": "~1.8.3",
+    "moment": "~2.10.3",
+    "normalize": "~1.0.4",
+    "normalize.scss": "~3.0.2+normalize.3.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+<div class="park">
+  <h2 class="park__name">{{ park.name }}</h2>
+  <h3 class="park__state">{{ park.state }}</h3>
+  <a class="park__logo" href="{{ park.url }}"><img ng-src="{{park.logo}}" alt="{{ park.name }}"></a>
+  <p class="park__message" ng-if="park.marketing-message">{{ park.marketing-message }}</p>
+  <ul class="park-perks">
+    <li class="park-perks__item" ng-repeat="perk in park.perks">{{perk}}</li>
+  </ul>
+  <p class="park__description">{{ park.description }}</p>
+</div>
