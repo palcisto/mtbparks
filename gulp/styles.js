@@ -28,7 +28,11 @@ module.exports = function(paths) {
       .pipe($.if(!global.prod, $.sourcemaps.init()))
         .pipe($.sass({
           outputStyle: 'nested', // libsass doesn't support expanded yet
-          precision: 10
+          precision: 10,
+          includePaths: [
+            '.',
+            'bower_components/normalize.scss'
+          ]
         }))
         .on('error', $.notify.onError(error))
         .pipe($.postcss(processors))

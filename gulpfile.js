@@ -9,8 +9,7 @@ var paths = {
   src: {
     root: 'src',
     html: 'src/**/*.html',
-    css:  ['src/assets/css/**/*.scss',
-           'bower_components/**/*.scss'],
+    css:  'src/assets/css/**/*.scss',
     js:   ['src/**/*.js',
            '!src/**/*_test.js'],
     img:  'src/assets/images/**/*'
