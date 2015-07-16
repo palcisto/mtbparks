@@ -2,6 +2,9 @@
 # MTBparks.com store - Frontend
 ---
 
+[![Dependency Status](https://david-dm.org/palcisto/mtbparks.svg)](https://david-dm.org/palcisto/mtbparks)
+[![devDependency Status](https://david-dm.org/palcisto/mtbparks/dev-status.svg)](https://david-dm.org/palcisto/mtbparks#info=devDependencies)
+
 Front end code repository for the MTBparks.com store app.
 
 ## Setup
