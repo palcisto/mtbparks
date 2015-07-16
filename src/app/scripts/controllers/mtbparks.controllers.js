@@ -12,6 +12,6 @@
 
   angular
     .module('mtbparks.controllers')
-    .controller('mtbparksMainController', ['parkPerks',mtbparksMainController]);
+    .controller('mtbparksMainController', ['perksService',mtbparksMainController]);
 
 })();

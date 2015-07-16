@@ -3,8 +3,11 @@
   
   angular.module('mtbparks.services', []);
 
-  function parkPerks() {
-    function getParks() {
+  function perksService() {
+
+    var perksService = {};
+
+    perksService.getParks = function() {
       return [
         {
           "id": 1,
@@ -43,12 +46,10 @@
       ];
     }
 
-    return {
-      getParks: getParks
-    }
+    return perksService;
   }
 
   angular
     .module('mtbparks.services')
-    .factory('parkPerks', parkPerks);
+    .factory('perksService', perksService);
 })();
