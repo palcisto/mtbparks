@@ -12,10 +12,12 @@
   <!-- inject:css -->
   <!-- endinject -->
 </head>
-<body ng-controller="mtbparksMainController as vm">
+<body>
   <div class="container">
-
-    <park data="vm.parks" ng-repeat="park in vm.parks"></park>
+    
+    <section ng-controller="passController as vm">
+      <park data="vm.parks" ng-repeat="park in vm.parks"></park>
+    </section>
 
     <div>
       <inline style="font-size: 12px; color: rgb(0, 0, 0);"><b><inline style="font-size: 14px; color: rgb(89, 89, 89);">The MTBparks Pass returns for the 2015 season with access to an unprecedented collection of North America’s Best Bike Parks. </inline></b></inline>
