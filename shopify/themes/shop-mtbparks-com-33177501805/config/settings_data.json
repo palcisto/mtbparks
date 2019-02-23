@@ -1,0 +1,961 @@
+{
+  "current": {
+    "color_text": "#3d4246",
+    "color_body_text": "#000000",
+    "color_sale_text": "#7796a8",
+    "color_borders": "#666666",
+    "color_button": "#7796a8",
+    "color_button_text": "#fff",
+    "color_small_button": "#ffffff",
+    "color_small_button_text": "#3d4246",
+    "color_text_field": "#ffffff",
+    "color_text_field_text": "#666666",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#000000",
+    "image_overlay_opacity": "0.25",
+    "color_body_bg": "#ffffff",
+    "type_header_family": "Google_Montserrat_400_sans",
+    "type_header_base_size": "32px",
+    "type_base_family": "Google_Montserrat_400_sans",
+    "type_base_size": "18px",
+    "type_bold_product_titles": true,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "https:\/\/twitter.com\/mtbparks",
+    "social_facebook_link": "https:\/\/facebook.com\/mtbparks",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/instagram.com\/mtbparks",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/2015-MTBparks-Stacked_130x130_6bfd27a1-bdae-4be7-b75f-f5f575772975.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/2015-MTBparks-Stacked_130x130_6bfd27a1-bdae-4be7-b75f-f5f575772975.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
+    "checkout_error_color": "#ff6d6d",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "center",
+          "logo": "shopify:\/\/shop_images\/2019_MTBparks_Pass_Logo_400x_e7fd2e4c-0a63-44e0-a9a7-bb286eed65b5.jpg",
+          "logo_max_width": "400",
+          "main_linklist": "",
+          "message": true,
+          "message_text": "Questions about the MTBparks Pass? Feel free to contact us (call or text) at:   1-888-848-BIKE",
+          "message_link": "",
+          "color_bg": "#1f597a",
+          "color_text": "#fff"
+        }
+      },
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Background-Image.jpg",
+          "alignment": "center",
+          "title": "FROM COAST TO COAST, THE MTBPARKS PASS IS A MOUNTAIN BIKER'S BEST FRIEND",
+          "text": "<p><\/p>\n<p><strong>Don't miss out on an incredible summer exploring North America's hottest bike parks.<\/strong><\/p>\n<p>ORDER TODAY!<\/p>\n<p>Scroll down to learn more and secure&nbsp;YOUR pass.<\/p>",
+          "hero_size": "x-small",
+          "text_size": "medium",
+          "button_label": "The 2019 Pass is Now Available",
+          "button_link": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_linklist": "footer",
+          "footer_linklist_two": "",
+          "footer_newsletter_enable": false,
+          "show_payment_icons": true
+        }
+      },
+      "1486074492032": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1498339720596": {
+            "type": "text",
+            "settings": {
+              "title": "EASTERN U.S.",
+              "text": "<p>CONNECTICUT | MAINE | MASSACHUSETTS | NEW YORK | NEW HAMPSHIRE | NEW JERSEY | PENNSYLVANIA | VERMONT | VIRGINIA | WEST VIRGINIA | TENNESSEE<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "1486074515001": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Killington-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1492103898866": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Mount-Snow-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1497850227163": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Okemo-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1530831513162": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Suicide-Six-Bike-Park-Benefits_f3bd7e6d-bbb7-4f1e-a16d-77cca845bc2a.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074635084": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Thunder-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074525355": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Blue-Mountain-Bike-Park-PA-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074660821": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Windham-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074698246": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Whiteface-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1495226948447": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Greek-Peak-Bike-Park-Benefits_56f9f1cf-e274-43b0-9780-1cb9096015ed.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1492105715584": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Attitash-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074726611": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Mount-Sunapee-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1497655748149": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Bretton-Woods-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1531247106393": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Mountain-Creek-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1499208489217": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Massanutten-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1499208534411": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Bryce-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1531247060803": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Snowshoe-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1530831713851": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Windrock-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "1498339720596",
+          "1486074515001",
+          "1492103898866",
+          "1497850227163",
+          "1530831513162",
+          "1486074635084",
+          "1486074525355",
+          "1486074660821",
+          "1486074698246",
+          "1495226948447",
+          "1492105715584",
+          "1486074726611",
+          "1497655748149",
+          "1531247106393",
+          "1499208489217",
+          "1499208534411",
+          "1531247060803",
+          "1530831713851"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1486074861340": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1498340524725": {
+            "type": "text",
+            "settings": {
+              "title": "CANADA",
+              "text": "<p>BRITISH COLUMBIA | NEW BRUNSWICK<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "1486074861340-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Whistler-Bike-Park-MTBparks-Pass-Benefits_677b0c77-94c5-46e0-a71b-2fec83d4a9c9.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1498339031688": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Mount-Washington-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486074888234": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Sugarloaf-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1498340524725",
+          "1486074861340-1",
+          "1498339031688",
+          "1486074888234"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1486075064498": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1498340338719": {
+            "type": "text",
+            "settings": {
+              "title": "WESTERN U.S.",
+              "text": "<p>COLORADO | UTAH | IDAHO | MONTANA | NEW MEXICO | WYOMING<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "1490398103983": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Trestle-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1531243832196": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Keystone-Bike-Park-Benefits_fa14e1b7-1b5e-49a4-a6e4-904a694491f7.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075088823": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Granby-Ranch-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075079883": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2017-Snowmass-Bike-Park-Benefits-NEW.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075085733": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Steamboat-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075091982": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Powderhorn-Bike-Park-MTBparks-Pass-Benefits_4dd0da8d-6481-49b6-91f5-f13d2660f8d0.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1494034208865": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Purgatory-Bike-Park-Benefits_7c4d8e1b-2901-4ba5-b935-36d37238570b.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1531245065543": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Brian-Head-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075064498-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Angel-Fire-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1494033414143": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Pajarito-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075095214": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Big-Sky-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1531244942532": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Whitefish-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075345397": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Silver-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075371198": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Tamarack-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075309167": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Brundage-Bike-Park-Benefits_eab972b4-4719-440a-8fa6-e9985064dfe7.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1494034652397": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Sun-Valley-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1486075251824": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Grand-Targhee-Bike-Park-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1498340338719",
+          "1490398103983",
+          "1531243832196",
+          "1486075088823",
+          "1486075079883",
+          "1486075085733",
+          "1486075091982",
+          "1494034208865",
+          "1531245065543",
+          "1486075064498-1",
+          "1494033414143",
+          "1486075095214",
+          "1531244942532",
+          "1486075345397",
+          "1486075371198",
+          "1486075309167",
+          "1494034652397",
+          "1486075251824"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "image_size": "small",
+          "show_quantity_selector": true,
+          "show_variant_labels": true,
+          "show_vendor": false,
+          "enable_zoom": false,
+          "show_share_buttons": true
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "list",
+          "grid": "2",
+          "rows": "2",
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "1487483695634": {
+        "type": "feature-columns",
+        "blocks": {
+          "1487483695634-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/one.png",
+              "title": "Order Your MTBparks Pass!!!",
+              "text": "<p>Submit your MTBparks Pass order today and start riding free tomorrow. Be sure to add&nbsp;a pass for your favorite biking buddy too!<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1487483695634-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/two.png",
+              "title": "Send Us Your Best Mug Shot",
+              "text": "<p>Once&nbsp;you submit your order, look for&nbsp;an email with a link for submitting your pass photo. We'll process and ship your pass ASAP!<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1487483695634-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/three.png",
+              "title": "Ride Lift, Ride Bike, Repeat",
+              "text": "<p>Present your pass at any&nbsp;participating partner resort ticket counter to receive&nbsp;your free day and\/or other&nbsp;member discounts.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1487483695634-0",
+          "1487483695634-1",
+          "1487483695634-2"
+        ],
+        "settings": {
+          "title": "How does it work?",
+          "align_text": "left"
+        }
+      },
+      "1487708955359": {
+        "type": "custom-content",
+        "blocks": {
+          "1487708955359-0": {
+            "type": "text",
+            "settings": {
+              "title": "How does the MTBparks Pass work?",
+              "text": "<p>It's simple. Present your MTBparks Pass to receive your free day or return visit discount at each participating resort.&nbsp;<\/p>\r\n<p><\/p>\r\n<p>The ticketing process may vary slightly at each participating resort, but in general you simply present your MTBparks Pass at the bike park ticket counter or guest services desk where you would normally purchase a lift ticket for the day. If you aren't sure of the procedure for a particular resort your best bet is to call their bike park office directly, or reach out to us via phone or text at: 888-848-2453 between 8:00 a.m. and 6:00 p.m. PST.<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1497388264036": {
+            "type": "text",
+            "settings": {
+              "title": "Can I access my MTBparks Pass benefits right away?",
+              "text": "<p>Absolutely! Your pass benefits are available the day after you place your order.<\/p>\n<p>Once your order is placed&nbsp;AND YOU HAVE SUBMITTED YOUR PHOTO we will add you to the member database, which is&nbsp;shared with resorts to verify your membership status. Additional details will be sent in your order confirmation email.&nbsp;<\/p>\n<p>**Once we start processing and shipping orders, you will receive a printed version of your pass as well.&nbsp;<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1497388673997": {
+            "type": "text",
+            "settings": {
+              "title": "I'm traveling, but would like to order an MTBparks Pass.",
+              "text": "<p>No problem!&nbsp;During the order process please include a note letting us know you're on the road and where you'll be in appx. 5-7 days. We can ship your pass to a location near you. Please be sure to include your phone number so that we can contact you with any logistical questions.<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1487709053858": {
+            "type": "text",
+            "settings": {
+              "title": "Are there any restrictions on using the MTBparks Pass?",
+              "text": "<p>The MTBparks Pass is non-transferable and non-refundable. Tickets received or purchased using the pass should be used by the pass holder. While we are not aware of any blackout dates individual resorts do occasionally shut down for races, events, poor\/dangerous conditions or other unforeseen reasons.<\/p>\n<p>In rare cases, your&nbsp;free ticket may not be redeemed in conjunction with an organized race event. If you have any concerns about being able to ride at an individual resort, its best to call ahead to ensure they are open.<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1541455142968": {
+            "type": "html",
+            "settings": {
+              "code": "<hr>",
+              "width": "100%"
+            }
+          },
+          "1487709158682": {
+            "type": "text",
+            "settings": {
+              "title": "Still have questions or need help with your order?",
+              "text": "<p>No problem. Feel free to contact us!&nbsp;<\/p>\r\n<p>Feel free to call or text us at 888-848-2453 (BIKE) between 9:00 a.m. and 5:00 p.m. PST<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1487708955359-0",
+          "1497388264036",
+          "1497388673997",
+          "1487709053858",
+          "1541455142968",
+          "1487709158682"
+        ],
+        "settings": {
+          "title": "Frequently Asked Questions"
+        }
+      },
+      "1488162488241": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1498340460043": {
+            "type": "text",
+            "settings": {
+              "title": "MIDWEST U.S.",
+              "text": "<p>MICHIGAN | MINNESOTA | WISCONSIN<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "1488162569583": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Crystal-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1488162488241-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Spirit-Mountain-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "1488162550794": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2018-Little-Switzerland-Bike-Park-MTBparks-Pass-Benefits.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1498340460043",
+          "1488162569583",
+          "1488162488241-1",
+          "1488162550794"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "list",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "1518471871691": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "2019-mtbparks-pass",
+          "image_size": "small",
+          "show_quantity_selector": false,
+          "show_variant_labels": true,
+          "show_vendor": false,
+          "enable_zoom": true,
+          "show_share_buttons": true,
+          "show_reviews": true
+        }
+      },
+      "1536249886759": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1536250420819": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Manticore-Logo.jpg",
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "1536249886759-0": {
+            "type": "text",
+            "settings": {
+              "title": "20% off of Manticore Products",
+              "text": "<p>As a member,&nbsp;you're&nbsp;eligible&nbsp;for a one time,&nbsp;<strong>20% discount on your Manticore order<\/strong>?<\/p>\n<p><\/p>\n<p>Manticore has&nbsp;over 20 years of experience performing overhauls and custom shock tuning. Manticore&rsquo;s experience coupled with state-of-the-art tooling means&nbsp;they can guarantee peak performance from your fork, shock, or dropper.<\/p>\n<p><\/p>\n<p>Manticore is now offering products from brands like <strong>DVO, Fox, MRP, Hayes, Hope and others<\/strong>. Visit their site to learn more. [<a href=\"https:\/\/store.manticoreshock.com\/\" title=\"https:\/\/store.manticoreshock.com\/\">CLICK HERE<\/a>]<\/p>",
+              "width": "75%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1541015451637": {
+            "type": "html",
+            "settings": {
+              "code": "<div style=\"text-align: center;\"><a href=\"javascript:void(0)\" onclick=\"_app.popup('CLQAi')\"><img src=\"https:\/\/mtbparks.com\/images\/banners\/2019-pass-emailsignup-banner-black-shorty-640.jpg\"><\/a><\/div>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "1536250420819",
+          "1536249886759-0",
+          "1541015451637"
+        ],
+        "settings": {
+          "title": "New Benefit for 2018 MTBpark Pass Members"
+        }
+      },
+      "1499217579186": {
+        "type": "custom-content",
+        "blocks": {
+          "1530904937496": {
+            "type": "text",
+            "settings": {
+              "title": "FREE LIFT TICKETS + HUGE DISCOUNTS  ALL SUMMER",
+              "text": "<p>The ultimate bike park pass for mountain bikers.&nbsp;<\/p>\n<p><strong>Get a FREE full day lift ticket at ALL of the bike parks included with the pass<\/strong><strong>. That's&nbsp;dozens of FREE days of shredding.<\/strong> Nearly <strong>$2,000 in free lift tickets<\/strong>, not to mention the <strong>discounts of up to 50% off each day for the&nbsp;2019 season<\/strong>&nbsp;(benefits in addition to one free day vary by park and will be listed as parks are announced).<\/p>\n<p><\/p>\n<p><\/p>\n<p><em>***We&rsquo;re still finalizing the list of amazing parks that will be participating for 2019, but with an average of 40 resorts on the MTBparks Pass the last few seasons, you can be sure there will be a sweet roster of bike parks&nbsp;on the pass&nbsp;this year.*** <\/em><\/p>\n<p><em>Check back each week to see the latest partner announcements.<\/em><\/p>\n<p><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1530904937496"
+        ],
+        "settings": {
+          "title": "SHRED MORE FOR LESS"
+        }
+      },
+      "1542988628049": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1543880994697": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/test.gif",
+              "width": "100%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1543880994697"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1548975490141": {
+        "type": "feature-columns",
+        "blocks": {
+          "1548975490141-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2018-Big-Sky-Bike-Park-Gambler.JPG",
+              "title": "BIG SKY BIKE PARK, MT",
+              "text": "<p><\/p>\n<p><strong>2019 MTBparks&nbsp;Pass&nbsp;Perks<\/strong><br>One FREE full-day lift ticket<br>50% OFF on return visits<br>OR&nbsp;2-for-1 Buddy Tickets<\/p>\n<p><\/p>\n<p><a href=\"https:\/\/mtbparks.com\/Montana\/236-Big-Sky-Resort-Bike-Park\/View-details.html\" title=\"https:\/\/mtbparks.com\/Montana\/236-Big-Sky-Resort-Bike-Park\/View-details.html\">Big Sky Bike Park<\/a> has long been known for its mostly ungroomed techy trails, but over the last few years the resort has been expanding its offerings to include a variety of trails off three lifts&nbsp;offering three&nbsp;distinct riding zones adding beginner terrain and some sweet new flow trails.<\/p>",
+              "button_label": "BIG SKY BIKE PARK INFO",
+              "button_link": "https:\/\/mtbparks.com\/Mountain-Bike-Park-News-Events\/News-Events\/Montana\/Big-Sky\/PASS-PARTNER-ALERT-Big-Sky-Bike-Park-Returns-to-MTBparks-Pass-for-2019.html"
+            }
+          },
+          "1549657418399": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2017-Mount-Washington-Bike-Park-1000.jpg",
+              "title": "MOUNT WASHINGTON BIKE PARK, BC",
+              "text": "<p><strong>2019 MTBparks&nbsp;Pass Perks<\/strong><br>One FREE full-day lift ticket<br>50% OFF on return visits<\/p>\n<p>Located on Vancouver Island, this bike park comes with a large influence from local trail designer and ripper, Darren Berrecloth. The mountains here are very rugged, however, the trail crew has done an amazing job of providing trails for riders of all levels, while still showing off the majestic beauty of the Canadian coastal range.&nbsp;<\/p>",
+              "button_label": "MT WASHINGTON BIKE PARK INFO",
+              "button_link": "https:\/\/mtbparks.com\/British-Columbia\/192-Mount-Washington-Bike-Park\/View-details.html"
+            }
+          },
+          "1549658837000": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2018-Blue-Mountain-Bike-Park-IG.png",
+              "title": "BLUE MOUNTAIN BIKE PARK, PA",
+              "text": "<p><strong>2019 MTBparks&nbsp;Pass&nbsp;Perks<\/strong><br>One FREE full-day lift ticket<br>50% OFF on return visits<br>10% OFF lessons, rentals &amp;&nbsp;retail<br>Buy one ticket, get one free (1x)<\/p>\n<p>Blue Mountain Bike Park offers the highest vertical drop in the state, offering 24 trails in the foothills of the Poconos. Riders in the park will enjoy the mix of rock gardens and loose rock that this region is known for. Whether you are hardcore shredder or looking to improve your skills you'll enjoy shredding the mountain over and over.<\/p>",
+              "button_label": "BLUE MOUNTAIN BIKE PARK INFO",
+              "button_link": "https:\/\/mtbparks.com\/Pennsylvania\/258-Blue-Mountain-Bike-Park-PA\/View-details.html"
+            }
+          },
+          "1550875527185": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2018-Grand-Targhee-Lynsey-Dyer-862_69696bc9-f051-48fc-99a8-03c14d04882d.jpg",
+              "title": "GRAND TARGHEE BIKE PARK, WY",
+              "text": "<p><strong>2019 MTBparks&nbsp;Pass&nbsp;Perks<\/strong><br>One FREE full-day lift ticket<br>50% OFF on return visits<br>15% OFF rentals &amp; shop purchases at Habitat<\/p>\n<p><\/p>\n<p>Located on the west side of the Tetons, Grand Targhee has the perfect set up for a bike park, with great views, big mountain riding and plentiful terrain for riders of all levels.<\/p>\n<p>Enjoy a secluded resort setting&nbsp;complete with&nbsp;on-site lodging,&nbsp;several dining options and a fully stocked General Store.<\/p>",
+              "button_label": "GRAND TARGHEE BIKE PARK INFO",
+              "button_link": "https:\/\/mtbparks.com\/Mountain-Bike-Park-News-Events\/News-Events\/Wyoming\/Grand-Targhee\/PASS-PARTNER-ALERT-Grand-Targhee-Bike-Park-Returns-to-MTBparks-Pass-for-2019.html"
+            }
+          },
+          "1548976257525": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Mount-Washington-IMG_2355_3a7f26c6-1829-4ccb-bbe9-007cceca9eb9.jpg",
+              "title": "WHICH BIKE PARK WILL BE ANNOUNCED NEXT?",
+              "text": "<p>Check back&nbsp;again soon to see&nbsp;the next bike park to be added to the list!!&nbsp;<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1548975490141-0",
+          "1549657418399",
+          "1549658837000",
+          "1550875527185",
+          "1548976257525"
+        ],
+        "settings": {
+          "title": "INTRODUCING OUR 2019 PASS PARTNERS",
+          "align_text": "left"
+        }
+      }
+    },
+    "content_for_index": [
+      "1542988628049",
+      "hero",
+      "1499217579186",
+      "1548975490141",
+      "1518471871691",
+      "1487483695634",
+      "1487708955359",
+      "1486074861340",
+      "1486075064498",
+      "1486074492032",
+      "1488162488241",
+      "1536249886759"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#788188",
+      "color_sale_text": "#7796A8",
+      "color_borders": "#e8e9eb",
+      "color_button": "#7796A8",
+      "color_button_text": "#fff",
+      "color_small_button": "#fff",
+      "color_small_button_text": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": "0.25",
+      "color_body_bg": "#fff",
+      "type_header_family": "Google_Work+Sans_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Work+Sans_400_sans",
+      "type_base_size": "16px",
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_two": ""
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "feature-row",
+        "slideshow"
+      ]
+    }
+  }
+}

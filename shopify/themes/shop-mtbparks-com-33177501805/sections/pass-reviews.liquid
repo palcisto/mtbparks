@@ -1,0 +1,26 @@
+<div class="page-width">
+  <div class="grid">
+    <div class="grid__item">
+      <div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Pass Reviews",
+    "class": "index-section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "pass_reviews",
+        "label": "Pass Reviews"
+	  }
+	]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
