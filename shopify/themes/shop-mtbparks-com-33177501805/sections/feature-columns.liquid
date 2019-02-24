@@ -21,7 +21,7 @@
     {% endcase %}
     {% for block in section.blocks %}
       {% if section.blocks.size == 5 and forloop.index < 3 %}
-        {%- assign column_width = 'medium-up--one-half' -%}
+        {%- assign column_width = 'medium-up--one-half pass-partner--one-half' -%}
       {% else %}
         {%- assign column_width = grid_item_width -%}
       {% endif %}
