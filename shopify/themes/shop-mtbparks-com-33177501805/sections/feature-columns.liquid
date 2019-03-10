@@ -5,8 +5,8 @@
     </div>
   {% endif %}
 
-  <div class="grid {% unless section.blocks.size == 5 %}grid--uniform{% endunless %} grid--flush-bottom">
-    {%- assign grid_item_width = 'medium-up--one-third' -%}
+  <div class="grid grid--uniform grid--flush-bottom">
+    {%- assign grid_item_width = 'medium-up--one-half' -%}
     {%- assign image_size = '345x' -%}
     {% case section.blocks.size %}
       {% when 1 %}
@@ -20,11 +20,7 @@
         {%- assign image_size = '530x' -%}
     {% endcase %}
     {% for block in section.blocks %}
-      {% if section.blocks.size == 5 and forloop.index < 3 %}
-        {%- assign column_width = 'medium-up--one-half pass-partner--one-half' -%}
-      {% else %}
-        {%- assign column_width = grid_item_width -%}
-      {% endif %}
+      {%- assign column_width = grid_item_width -%}
       <div class="grid__item {{ column_width }} text-{{ section.settings.align_text }}" {{ block.shopify_attributes }}>
         {% if block.settings.enable_image %}
           {% if block.settings.image != blank %}
